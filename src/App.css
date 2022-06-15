@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-family: Nflx;
 }
 
 .App-logo {
@@ -13,7 +14,7 @@
   }
 }
 
-.App-header {
+.App-content {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -35,4 +36,21 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.titles {
+  @apply text-6xl font-black dark:text-white;
+}
+
+@font-face {
+  font-family: Nflx;
+  src: url("../public/fonts/netflix.ttf");
+}
+
+iframe {
+  width: 70%;
+  margin: 0 auto;
+  display: block;
+  border: 4px solid black;
+  border-radius: 12px;
 }
