@@ -8,11 +8,14 @@ import Yearbook from "./Components/Yearbook"
 import Footer from "./Components/Footer"
 
 
+
+
 function App() {
   const ref = useRef();
   return (
     <div className="App">
       <div className="App-content">
+
       <Parallax pages={3.2} ref={ref}>
 
           <Home/>
@@ -22,6 +25,7 @@ function App() {
 
 
       </Parallax>
+
 
       </div>
     </div>

@@ -13,6 +13,7 @@ function Footer() {
             color: 'white',
           }}>
         <div>
+            
             <p className="mb-8 text-4xl leading-relaxed">
                 Special thanks to our impostors
             </p>
