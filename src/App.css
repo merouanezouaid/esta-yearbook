@@ -1,6 +1,7 @@
 .App {
   text-align: center;
   font-family: Nflx;
+  user-select: none;
 }
 
 .App-logo {
@@ -53,4 +54,8 @@ iframe {
   display: block;
   border: 4px solid black;
   border-radius: 12px;
+}
+
+.github-button {
+  @apply text-white bg-[#15171a] hover:bg-[#24292F]/90 transition-colors focus:ring-4 focus:outline-none focus:ring-[#24292F]/50 font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center dark:focus:ring-gray-500 dark:hover:bg-[#050708]/30 mr-2 mb-2;
 }
