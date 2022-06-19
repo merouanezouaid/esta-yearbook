@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/esta-yearbook/static/css/main.4b8540af.css",
-    "main.js": "/esta-yearbook/static/js/main.76d15c59.js",
+    "main.css": "/esta-yearbook/static/css/main.015cce02.css",
+    "main.js": "/esta-yearbook/static/js/main.5828fa21.js",
     "static/media/Graduation.gif": "/esta-yearbook/static/media/Graduation.231885be70bfb9ecaa39.gif",
     "static/media/netflix.ttf": "/esta-yearbook/static/media/netflix.3f33e7ce7d3183e779f5.ttf",
     "static/media/amogus.png": "/esta-yearbook/static/media/amogus.4f0bbe44196a0ba086d0.png",
     "index.html": "/esta-yearbook/index.html"
   },
   "entrypoints": [
-    "static/css/main.4b8540af.css",
-    "static/js/main.76d15c59.js"
+    "static/css/main.015cce02.css",
+    "static/js/main.5828fa21.js"
   ]
 }
