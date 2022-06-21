@@ -22,6 +22,44 @@
 
 ##### If you don't want to reveal your complete name, you can include a short name or nickname.
 
+##  How to join the Class of 2022 🏫
+
+##### All you have to do is to **submit a pull request** with your profile information to join the Yearbook.
+
+
+## Add yourself to Yearbook 
+##### Replace `<YOUR-USERNAME>` with your username in this guide.
+
+### 1. Awalan kabira, create your profile file \_data/YOUR-USERNAME.md/
+
+##### Fork this repository, inside the `_data` folder, create a markdown file in your folder following the convention `<YOUR-USERNAME>.md`. Ex.
+
+```
+_data/20hardp.md
+```
+
+
+### 2. Taniyan kabira, add your profile information
+
+##### Copy the next template into your file, delete the boilerplate data and fill the information with yours.
+
+```
+---
+name: FULLNAME-OR-NICKNAME # No longer than 28 characters
+picture: INSTITUTION-NAME 🚩 # picture link (upload on a image hosting service. Ex. https://imgbb.com)
+quote: YOUR-SENIOR-QUOTE # no longer than 100 characters, avoid using quotes(") to guarantee the format remains the same.
+---
+```
+
+_Do not use special characters in the template above._
+
+### 3. Akhiiran wa laysa aakhiran, submit your Pull Request!
+##### To ensure your contribution is genuine, go through the checklist on the pull request form. If everything is right, we will examine your application, approve it, and merge it. Otherwise, the modifications requested in the pull request comment area will be sent to you.
+
+##### Having trouble submitting your Pull Request? [Ask for help in the discord server](https://discord.gg/cXgJPB2Ju3)!
+
+###### Note: This project is free and open source so feel free to contribute and make it better!! Thank you very much <3
+
 ## 🛠 Setup the Project
 
 ##### 1. Install the dependencies
