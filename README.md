@@ -30,12 +30,12 @@
 ## Add yourself to Yearbook 
 ##### Replace `<YOUR-USERNAME>` with your username in this guide.
 
-### 1. Awalan kabira, create your profile file \_data/YOUR-USERNAME.md/
+### 1. Awalan kabira, create your profile file \src/data/YOUR-USERNAME.md/
 
-##### Fork this repository, inside the `_data` folder, create a markdown file in your folder following the convention `<YOUR-USERNAME>.md`. Ex.
+##### Fork this repository, inside the `src/data` folder, create a markdown file following the convention `<YOUR-USERNAME>.md`. Ex.
 
 ```
-_data/20hardp.md
+src/data/20hardp.md
 ```
 
 
