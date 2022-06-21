@@ -1,11 +1,16 @@
 import "./App.css";
-import { useRef } from "react"
+import React, { useRef } from "react"
 import { Parallax } from '@react-spring/parallax';
 
-import Home from "./Components/Home"
-import Slider from "./Components/Slider"
-import Yearbook from "./Components/Yearbook"
-import Footer from "./Components/Footer"
+// import Home from "./Components/Home"
+// import Yearbook from "./Components/Yearbook"
+// import Footer from "./Components/Footer"
+import Spinner from "./Components/assets/Spinner"
+
+const Slider = React.lazy(()=> import("./Components/Slider")) 
+const Home = React.lazy(()=> import("./Components/Home")) 
+const Yearbook = React.lazy(()=> import("./Components/Yearbook")) 
+const Footer = React.lazy(()=> import("./Components/Footer")) 
 
 
 
@@ -18,11 +23,13 @@ function App() {
 
       <Parallax pages={3.2} ref={ref}>
 
+          <React.Suspense fallback={<Spinner/>}>
           <Home/>
-          <Slider/>
+            <Slider/>
           <Yearbook/>
           <Footer/>
 
+          </React.Suspense>
 
       </Parallax>
 
