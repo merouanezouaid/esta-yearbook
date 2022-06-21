@@ -46,7 +46,7 @@ _data/20hardp.md
 ```
 ---
 name: FULLNAME-OR-NICKNAME # No longer than 28 characters
-picture: INSTITUTION-NAME 🚩 # picture link (upload on a image hosting service. Ex. https://imgbb.com)
+picture: https://i.kym-cdn.com/photos/images/newsfeed/000/369/488/61d.jpeg 🚩 # picture link (upload on a image hosting service. Ex. https://imgbb.com)
 quote: YOUR-SENIOR-QUOTE # no longer than 100 characters, avoid using quotes(") to guarantee the format remains the same.
 ---
 ```
