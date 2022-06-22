@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/esta-yearbook/static/css/main.1c62ed77.css",
-    "main.js": "/esta-yearbook/static/js/main.7fa76e5b.js",
+    "main.css": "/esta-yearbook/static/css/main.882eb683.css",
+    "main.js": "/esta-yearbook/static/js/main.0e22bee8.js",
     "static/js/345.37e0f5a3.chunk.js": "/esta-yearbook/static/js/345.37e0f5a3.chunk.js",
     "static/js/151.311dc155.chunk.js": "/esta-yearbook/static/js/151.311dc155.chunk.js",
-    "static/js/742.e6f30173.chunk.js": "/esta-yearbook/static/js/742.e6f30173.chunk.js",
+    "static/js/742.72dd5ee7.chunk.js": "/esta-yearbook/static/js/742.72dd5ee7.chunk.js",
     "static/js/466.c9368dd7.chunk.js": "/esta-yearbook/static/js/466.c9368dd7.chunk.js",
     "static/js/856.d9f38367.chunk.js": "/esta-yearbook/static/js/856.d9f38367.chunk.js",
     "static/media/Graduation.gif": "/esta-yearbook/static/media/Graduation.231885be70bfb9ecaa39.gif",
@@ -13,7 +13,7 @@
     "index.html": "/esta-yearbook/index.html"
   },
   "entrypoints": [
-    "static/css/main.1c62ed77.css",
-    "static/js/main.7fa76e5b.js"
+    "static/css/main.882eb683.css",
+    "static/js/main.0e22bee8.js"
   ]
 }
