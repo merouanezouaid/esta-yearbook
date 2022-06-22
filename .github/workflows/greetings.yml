@@ -1,0 +1,17 @@
+name: Greetings
+
+on: [pull_request_target, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: |
+            This issue is available for anyone to work on. **Make sure to reference this issue in your pull request.** :sparkles: Thank you for your contribution! :sparkles:
+        pr-message: "Welcome to The ESTA Yearbook 2021/2022!!\nThanks for opening this pull request my friend! Following that, we will check and ensure that your PR satisfies the standards. You have nothing to do but wait. When we've finished reviewing your Pull Request, we'll write another comment asking for edits or merge it."
