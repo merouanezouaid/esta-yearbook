@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/esta-yearbook/static/css/main.882eb683.css",
-    "main.js": "/esta-yearbook/static/js/main.cd798968.js",
-    "static/js/345.ef49d22a.chunk.js": "/esta-yearbook/static/js/345.ef49d22a.chunk.js",
+    "main.js": "/esta-yearbook/static/js/main.e39c1ae6.js",
+    "static/js/345.37e0f5a3.chunk.js": "/esta-yearbook/static/js/345.37e0f5a3.chunk.js",
     "static/js/151.311dc155.chunk.js": "/esta-yearbook/static/js/151.311dc155.chunk.js",
     "static/js/742.72dd5ee7.chunk.js": "/esta-yearbook/static/js/742.72dd5ee7.chunk.js",
     "static/js/466.c9368dd7.chunk.js": "/esta-yearbook/static/js/466.c9368dd7.chunk.js",
@@ -14,6 +14,6 @@
   },
   "entrypoints": [
     "static/css/main.882eb683.css",
-    "static/js/main.cd798968.js"
+    "static/js/main.e39c1ae6.js"
   ]
 }
