@@ -17,7 +17,7 @@ function Slider() {
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="https://media1.giphy.com/media/VroKtX7dzy0BE34rZ6/giphy.gif"
+            src={Graduation}
           />
         </div>
       </div>
