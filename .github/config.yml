@@ -1,0 +1,8 @@
+# Configuration for update-docs - https://github.com/behaviorbot/update-docs
+
+# Comment to be posted to on PRs that don't update documentation
+updateDocsComment: >
+  Welcome to The ESTA Yearbook 2021/2022!!
+  Thanks for opening this pull request my friend! Following that, we will check and ensure that your PR satisfies the standards. You have nothing to do but wait. When we've finished reviewing your Pull Request, we'll write another comment asking for edits or merge it.
+  
+
