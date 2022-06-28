@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/esta-yearbook/static/css/main.4bbd5495.css",
-    "main.js": "/esta-yearbook/static/js/main.f2563f54.js",
+    "main.css": "/esta-yearbook/static/css/main.d467c784.css",
+    "main.js": "/esta-yearbook/static/js/main.8109649e.js",
     "static/js/345.37e0f5a3.chunk.js": "/esta-yearbook/static/js/345.37e0f5a3.chunk.js",
     "static/js/151.311dc155.chunk.js": "/esta-yearbook/static/js/151.311dc155.chunk.js",
-    "static/js/102.842465be.chunk.js": "/esta-yearbook/static/js/102.842465be.chunk.js",
+    "static/js/189.8916bd4a.chunk.js": "/esta-yearbook/static/js/189.8916bd4a.chunk.js",
     "static/js/466.c9368dd7.chunk.js": "/esta-yearbook/static/js/466.c9368dd7.chunk.js",
     "static/js/856.d9f38367.chunk.js": "/esta-yearbook/static/js/856.d9f38367.chunk.js",
     "static/media/Graduation.gif": "/esta-yearbook/static/media/Graduation.231885be70bfb9ecaa39.gif",
     "static/media/netflix.ttf": "/esta-yearbook/static/media/netflix.3f33e7ce7d3183e779f5.ttf",
     "static/media/amogus.png": "/esta-yearbook/static/media/amogus.4f0bbe44196a0ba086d0.png",
+    "static/media/crown.svg": "/esta-yearbook/static/media/crown.71b65542d7879cf7e13ccc1cceed7ff2.svg",
     "index.html": "/esta-yearbook/index.html"
   },
   "entrypoints": [
-    "static/css/main.4bbd5495.css",
-    "static/js/main.f2563f54.js"
+    "static/css/main.d467c784.css",
+    "static/js/main.8109649e.js"
   ]
 }
