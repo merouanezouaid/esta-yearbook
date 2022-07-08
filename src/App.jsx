@@ -21,7 +21,7 @@ function App() {
     <div className="App">
       <div className="App-content">
 
-      <Parallax pages={3.2} ref={ref}>
+      <Parallax pages={10} ref={ref}>
 
           <React.Suspense fallback={<Spinner/>}>
           <Home/>
