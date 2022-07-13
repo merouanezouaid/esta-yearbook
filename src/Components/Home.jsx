@@ -12,8 +12,7 @@ function Home() {
             Class of 2022
         </div>
         <Video embedId="moIISeuOL38" />
-        
-        
+                
         </ParallaxLayer>
     )
 }
