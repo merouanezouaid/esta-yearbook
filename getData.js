@@ -34,7 +34,6 @@ const getData = () => {
         const lines = contents.split("\n");
         const metadataIndices = lines.reduce(getMetadataIndices, []);
         const metadata = parseMetadata({ lines, metadataIndices });
-        const date = new Date(metadata.date);
         post = {
           picture: metadata.picture ? metadata.picture : "No picture given",
           name: metadata.name ? metadata.name : "No name given",
@@ -48,7 +47,7 @@ const getData = () => {
           let data = JSON.stringify(sortedList);
           data = data.replace(/\\r/g, "");
           //   console.log(JSON.parse(data));
-          fs.writeFileSync("../src/data.json", data);
+          fs.writeFileSync("src/data.json", data);
         }
       });
     });
