@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/esta-yearbook/static/css/main.65c51146.css",
-    "main.js": "/esta-yearbook/static/js/main.0c297427.js",
+    "main.js": "/esta-yearbook/static/js/main.54a7f32a.js",
     "static/js/792.db400219.chunk.js": "/esta-yearbook/static/js/792.db400219.chunk.js",
     "static/js/987.59730dea.chunk.js": "/esta-yearbook/static/js/987.59730dea.chunk.js",
-    "static/js/519.1c44815a.chunk.js": "/esta-yearbook/static/js/519.1c44815a.chunk.js",
+    "static/js/519.93e759bc.chunk.js": "/esta-yearbook/static/js/519.93e759bc.chunk.js",
     "static/js/648.86b4c12a.chunk.js": "/esta-yearbook/static/js/648.86b4c12a.chunk.js",
     "static/js/140.528f5f1b.chunk.js": "/esta-yearbook/static/js/140.528f5f1b.chunk.js",
     "static/media/Graduation.gif": "/esta-yearbook/static/media/Graduation.231885be70bfb9ecaa39.gif",
@@ -13,15 +13,15 @@
     "static/media/crown.svg": "/esta-yearbook/static/media/crown.34a5934067febf6a04d8377ba34e5715.svg",
     "index.html": "/esta-yearbook/index.html",
     "main.65c51146.css.map": "/esta-yearbook/static/css/main.65c51146.css.map",
-    "main.0c297427.js.map": "/esta-yearbook/static/js/main.0c297427.js.map",
+    "main.54a7f32a.js.map": "/esta-yearbook/static/js/main.54a7f32a.js.map",
     "792.db400219.chunk.js.map": "/esta-yearbook/static/js/792.db400219.chunk.js.map",
     "987.59730dea.chunk.js.map": "/esta-yearbook/static/js/987.59730dea.chunk.js.map",
-    "519.1c44815a.chunk.js.map": "/esta-yearbook/static/js/519.1c44815a.chunk.js.map",
+    "519.93e759bc.chunk.js.map": "/esta-yearbook/static/js/519.93e759bc.chunk.js.map",
     "648.86b4c12a.chunk.js.map": "/esta-yearbook/static/js/648.86b4c12a.chunk.js.map",
     "140.528f5f1b.chunk.js.map": "/esta-yearbook/static/js/140.528f5f1b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.65c51146.css",
-    "static/js/main.0c297427.js"
+    "static/js/main.54a7f32a.js"
   ]
 }
