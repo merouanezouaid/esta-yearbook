@@ -24,7 +24,7 @@
     "build": "set \" GENERATE_SOURCEMAP=false\" && react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "server": "node public/getData.js"
+    "server": "node utils/getData.js"
   },
   "eslintConfig": {
     "extends": [
