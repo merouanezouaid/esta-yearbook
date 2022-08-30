@@ -1,5 +1,5 @@
 ---
 name: OUTIDRARINE El Bachir
-picture: https://icon-library.com/images/graduation-hat-icon-png/graduation-hat-icon-png-29.jpg
+picture: https://ibb.co/0FLHC73
 quote: I am a very mysterious person.
 ---
