@@ -1,5 +1,5 @@
 ---
 name: EL QESSOUAR Tariq
-picture: https://icon-library.com/images/graduation-hat-icon-png/graduation-hat-icon-png-29.jpg
-quote: I am a very mysterious person.
+picture: https://i.ibb.co/8KKCsPG/photo1647333477.jpg
+quote: Once we accept our limits, we go beyond them.
 ---
